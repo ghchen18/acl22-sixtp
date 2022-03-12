@@ -1,10 +1,12 @@
-> Code for ACL 2022 main conference paper 'Towards Making the Most of Cross-Lingual Transfer for Zero-Shot Neural Machine Translation'
+> Code for ACL 2022 paper 'Towards Making the Most of Cross-Lingual Transfer for Zero-Shot Neural Machine Translation'
 
 ----
 
 Coming soon.
 
 
+
+## Citation
 ```
 @inproceedings{Chen2022towards,
     title={Towards Making the Most of Multilingual Pretraining for Zero-Shot Neural Machine Translation}, 
