@@ -1,4 +1,4 @@
-> Code for ACL 2022 paper 'Towards Making the Most of Cross-Lingual Transfer for Zero-Shot Neural Machine Translation'
+> Code for ACL 2022 paper 'Towards Making the Most of Cross-Lingual Transfer for Zero-Shot Neural Machine Translation' [[arxiv](https://arxiv.org/abs/2110.08547)]
 
 ----
 
