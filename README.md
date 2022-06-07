@@ -1,4 +1,6 @@
-> Code for ACL 2022 paper 'Towards Making the Most of Cross-Lingual Transfer for Zero-Shot Neural Machine Translation' [[arxiv](https://arxiv.org/abs/2110.08547)] [[ACL anthology](https://aclanthology.org/2022.acl-long.12/)]
+> Code for ACL 2022 paper 'Towards Making the Most of Cross-Lingual Transfer for Zero-Shot Neural Machine Translation' 
+> 
+> [[arxiv](https://arxiv.org/abs/2110.08547)] [[ACL anthology](https://aclanthology.org/2022.acl-long.12/)]
 
 ----
 
@@ -31,12 +33,9 @@ After the model is trained, you can directly test it in a zero-shot manner. The 
 
 ## Model Checkpoints 
 
-> Checkpoints coming soon ...
+The many-to-English SixT+ model checkpoint [[download (5.6GB)](https://publicmodel.blob.core.windows.net/sixt/x2e.pt)]
 
-
-The many-to-English SixT+ model checkpoint [[download (5.6GB)]()]
-
-The many-to-many SixT+ model checkpoint [[download (5.6GB)]()]
+The many-to-many SixT+ model checkpoint [[download (5.6GB)](https://publicmodel.blob.core.windows.net/sixt/x2x.pt)]
 
 
 ## Citation
