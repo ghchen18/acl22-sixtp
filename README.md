@@ -33,9 +33,9 @@ After the model is trained, you can directly test it in a zero-shot manner. The 
 
 ## Model Checkpoints 
 
-The many-to-English SixT+ model checkpoint [[download (5.6GB)](https://publicmodel.blob.core.windows.net/sixt/x2e.pt)]
+The many-to-English SixT+ model checkpoint [[download (5.6GB)](https://publicmodel.blob.core.windows.net/sixtp/x2e.pt)]
 
-The many-to-many SixT+ model checkpoint [[download (5.6GB)](https://publicmodel.blob.core.windows.net/sixt/x2x.pt)]
+The many-to-many SixT+ model checkpoint [[download (5.6GB)](https://publicmodel.blob.core.windows.net/sixtp/x2x.pt)]
 
 
 ## Citation
